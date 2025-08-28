@@ -95,7 +95,8 @@ Certifique-se de que todos os critérios de aceite são atendidos durante o dese
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Itallo Sávio
+Para mais detalhes do desenvolvimento, olhar o arquivo SOLUTION.md
 
 ## Licença
 
